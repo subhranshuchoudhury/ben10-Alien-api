@@ -31,7 +31,6 @@
   "location_area_encounters": "https://pokeapi.co/api/v2/pokemon/2/encounters",
   "name": "ivysaur",
   "order": 2,
-  "past_types": [],
   "species": {
     "name": "ivysaur",
     "url": "https://pokeapi.co/api/v2/pokemon-species/2/"
