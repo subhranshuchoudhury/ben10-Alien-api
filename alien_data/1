@@ -10235,11 +10235,11 @@
       ]
     }
   ],
-  "name": "bulbasaur",
+  "name": "zinu",
   "order": 1,
   "past_types": [],
   "species": {
-    "name": "bulbasaur",
+    "name": "chinu",
     "url": "https://pokeapi.co/api/v2/pokemon-species/1/"
   },
   "sprites": {
