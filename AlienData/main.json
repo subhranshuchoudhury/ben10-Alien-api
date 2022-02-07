@@ -1,0 +1,12 @@
+{
+  "id": {ID},
+  "name": "{NAME OF THE ALIEN}",
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "{SLOT COLOUR = CHECK JS}"
+      }
+    }
+  ]
+}
