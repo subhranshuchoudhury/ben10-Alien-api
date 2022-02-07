@@ -1,0 +1,12 @@
+{
+  "id": 4,
+  "name": "test11",
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "fire"
+      }
+    }
+  ]
+}
