@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "name": "wild mutt",
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "grass"
+      }
+    }
+  ]
+}
