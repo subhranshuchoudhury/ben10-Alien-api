@@ -1,0 +1,13 @@
+{
+  "id": 2,
+  "name": "alienX",
+  "power": [
+    {
+      "slot": 1,
+      "power": {
+        "name": "fairy",
+        "other_p": "Rolling"
+      }
+    }
+  ]
+}
