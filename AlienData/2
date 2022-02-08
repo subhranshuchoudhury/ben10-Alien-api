@@ -5,8 +5,7 @@
     {
       "slot": 1,
       "power": {
-        "name": "fairy",
-        "other_p": "Rolling"
+        "name": "fairy"
       }
     }
   ]
